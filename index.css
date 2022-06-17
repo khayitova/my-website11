@@ -1,0 +1,43 @@
+body {
+  background-color: #CAF7E3;
+  margin: 0;
+  text-align: center;
+  text-align: center;
+
+}
+
+.top-section{
+  background-color: #B3E8E5;
+margin-top: 0px;
+padding-bottom: 50px;
+padding-left: 50px;
+}
+
+h1{
+  color: #488FB1;
+  margin-top: 0px;
+  font-size: 40px;
+  font-size: 50px;
+
+  }
+  .eyfel: 40%
+
+.web{
+  text-decoration: underline;
+
+    }
+    .top{
+    height:128px;
+    width: 128px;
+    position: relative;
+    left: 50px;
+    }
+    .bottom{
+      height:128px;
+      width:128px;
+      position: absolute;
+      left: 400px;
+  }
+  h2{
+    color: #68A7AD;
+  
